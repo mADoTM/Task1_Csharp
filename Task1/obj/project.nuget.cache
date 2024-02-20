@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GhisM792zz+Ii96sKK8gU/JqRnS4ReGlEvjqXsrc5xSgedXg6lL8stBpU/YMLpX00SsSK8iMzbePtTqcTAwt0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxim Dolzhenko\\RiderProjects\\Task1\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim Dolzhenko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Maxim Dolzhenko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Maxim Dolzhenko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Maxim Dolzhenko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
